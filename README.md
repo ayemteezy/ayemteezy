@@ -134,7 +134,7 @@
   </a>
  
 </div>
- 📂 My Portfolio: **<a href="https://teezy-portfolio.vercel.app/" target="_blank">[https://www.karbi.me/](https://teezy-portfolio.vercel.app/)</a>**
+ 📂 My Portfolio: **<a href="https://teezy-portfolio.vercel.app/" target="_blank">https://teezy-portfolio.vercel.app/</a>**
 
 ###
 

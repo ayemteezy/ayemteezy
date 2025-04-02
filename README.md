@@ -6,8 +6,9 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Laurence Lester Cariño but you can call me Teezy!
+        👋 Hi, my name is Laurence Lester Cariño
       </h1>
+      <h3>Also known as Teezy</h3>
     </summary>
   </ul>
 </div>

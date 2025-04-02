@@ -1,5 +1,3 @@
-![👋 Hi, my name is Kurt Carvey Cadenas](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=krtcrvy&label=Profile%20views&color=0e75b6&style=fla" alt="Profile views"/>
 </p>

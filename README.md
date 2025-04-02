@@ -84,4 +84,3 @@ Feel free to reach out via the links below for collaborations or tech discussion
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ayemteezy&theme=catppuccin_mocha&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true&border_radius=2" alt="GitHub stats Card" />
 </div>
 
-![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)

@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to My GitHub Profile
+# 👋 Hello! I'm Teezy! Welcome to my Github Profile
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayemteezy&label=Profile%20views&color=0e75b6&style=fla)
 

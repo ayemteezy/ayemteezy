@@ -28,9 +28,10 @@
 
 ###
 
-- 💼 **Current Project:** <br>
-- 🌱 **Learning:** Exploring deeper on JavaScript.<br>
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.
+- 💼 I'm up to: <br>
+- 🌱 I'm currently learning: Exploring deeper on JavaScript.<br>
+- 💬 Ask me about: **💡 JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.**
+- 📂 My Portfolio: **<a href="https://teezy-portfolio.vercel.app/" target="_blank">https://teezy-portfolio.vercel.app/</a>**
 
 ###
 
@@ -134,7 +135,7 @@
   </a>
  
 </div>
- 📂 My Portfolio: **<a href="https://teezy-portfolio.vercel.app/" target="_blank">https://teezy-portfolio.vercel.app/</a>**
+ 
 
 ###
 
@@ -159,3 +160,5 @@
 </picture>
 
 ###
+
+<h2 align="left">Thanks for stopping by! 🌟</h2>

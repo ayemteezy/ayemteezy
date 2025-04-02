@@ -4,14 +4,12 @@
 
 <div id="toc">
   <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Laurence Lester Cariño
-      </h1>
-      <h2>Also known as Teezy</h2>
-    </summary>
+    <summary></summary>
+    <h1>👋 Hi, my name is Laurence Lester Cariño</h1>
+    <h2>Also known as Teezy</h2>
   </ul>
 </div>
+
 
 
 ---

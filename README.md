@@ -80,7 +80,7 @@ Feel free to reach out via the links below for collaborations or tech discussion
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayemteezy&theme=catppuccin_mocha&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true&border_radius=2" alt="GitHub stats Card" />
 </div>
 

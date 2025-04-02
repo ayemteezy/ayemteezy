@@ -10,11 +10,26 @@ I am a **Full-Stack Web Developer** with a passion for creating intuitive and sc
 
 ---
 
+## 🎯 Current Goals:
+- Creating **mobile-first** applications with a seamless cross-platform experience.
+- Exploring **AI** and **machine learning** in web and mobile apps.
+- Contributing to **open-source** projects.
+
+---
+
+## 🌱 What I'm Learning:
+- Mobile development with **Flutter**.
+- Real-time backend solutions using **Convex DB**.
+
+---
+
 ## 🚀 Projects I'm Working On
 
 - **🛠️ Real-time Web Apps** using **Next.js**, **React**, and **Convex DB**.
 
 ---
+
+
 
 ## 🧑‍💻 Skills
 
@@ -53,18 +68,6 @@ I am a **Full-Stack Web Developer** with a passion for creating intuitive and sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase">
 </div>
 
-
-## 🎯 Current Goals:
-- Creating **mobile-first** applications with a seamless cross-platform experience.
-- Exploring **AI** and **machine learning** in web and mobile apps.
-- Contributing to **open-source** projects.
-
----
-
-## 🌱 What I'm Learning:
-- Mobile development with **Flutter**.
-- Real-time backend solutions using **Convex DB**.
-
 ---
 
 ## 💬 Let's Connect:
@@ -77,8 +80,8 @@ Feel free to reach out via the links below for collaborations or tech discussion
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
-  <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=krtcrvy&theme=catppuccin_mocha&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true&border_radius=2" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&theme=catppuccin_mocha&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
+  <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=ayemteezy&theme=catppuccin_mocha&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23&hide_border=true&border_radius=2" alt="GitHub stats Card" />
 </div>
 
 ![Snake Animation](https://raw.githubusercontent.com/krtcrvy/krtcrvy/output/snake.svg)

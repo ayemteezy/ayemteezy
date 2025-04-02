@@ -28,7 +28,9 @@
 
 ###
 
-<h4 align="left">- 💼 **Current Project:** <br>- 🌱 **Learning:** Exploring deeper on JavaScript.<br>- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.</h4>
+- 💼 **Current Project:** <br>
+- 🌱 **Learning:** Exploring deeper on JavaScript.<br>
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.
 
 ###
 
@@ -130,7 +132,7 @@
   <a href="https://x.com/ayemteezy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
-  [My Portfolio](https://teezy-portfolio.vercel.app)
+  📂 My Portfolio: **<a href="https://teezy-portfolio.vercel.app/" target="_blank">[https://www.karbi.me/](https://teezy-portfolio.vercel.app/)</a>**
 </div>
 
 ###

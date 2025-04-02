@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to My GitHub Profile
 
-![Profile views](https://komarev.com/ghpvc/?username=krtcrvy&label=Profile%20views&color=0e75b6&style=fla)
+![Profile views](https://komarev.com/ghpvc/?username=ayemteezy&label=Profile%20views&color=0e75b6&style=fla)
 
 ---
 
@@ -70,7 +70,7 @@ I am a **Full-Stack Web Developer** with a passion for creating intuitive and sc
 ## 💬 Let's Connect:
 Feel free to reach out via the links below for collaborations or tech discussions!
 
-<p align="left"><a href="https://github.com/krtcrvy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/kurtcarvey-cadenas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+<p align="left"><a href="https://github.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/laurence-lester-cariño" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
 ---
 

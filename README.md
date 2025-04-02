@@ -10,15 +10,15 @@
 
 ###
 
-<h2 align="left">👋 Hi there! I'm Teezy!</h2>
+<h1 align="left">👋 Hi there! I'm Teezy!</h1>
 
 ###
 
-<h4 align="left">🚀 I'm a web developer who loves solving problems and bringing ideas to life through code. I thrive on building scalable and efficient applications, especially when working with Next.js, React, and modern backend technologies. My passion lies in creating seamless user experiences while pushing the boundaries of what's possible in web development.</h4>
+<h3 align="left">🚀 I'm a web developer who loves solving problems and bringing ideas to life through code. I thrive on building scalable and efficient applications, especially when working with Next.js, React, and modern backend technologies. My passion lies in creating seamless user experiences while pushing the boundaries of what's possible in web development.</h3>
 
 ###
 
-<h4 align="left">🔭 I'm currently looking for a front-end web development role where I can collaborate with like-minded developers and contribute to impactful projects. If you're hiring, let's talk!</h4>
+<h3 align="left">🔭 I'm currently looking for a front-end web development role where I can collaborate with like-minded developers and contribute to impactful projects. If you're hiring, let's talk!</h3>
 
 ###
 
@@ -28,11 +28,13 @@
 
 ###
 
-<p align="left">- 💼 **Current Project:** <br>- 🌱 **Learning:** Exploring deeper on JavaScript.<br>- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.</p>
+<h4 align="left">- 💼 **Current Project:** <br>- 🌱 **Learning:** Exploring deeper on JavaScript.<br>- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.</h4>
 
 ###
 
-<h3 align="left">Skills</h3>
+<br clear="both">
+
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -104,7 +106,9 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<br clear="both">
+
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -132,7 +136,7 @@
 
 <br clear="both">
 
-<h3 align="left">Github Stats</h3>
+<h2 align="left">Github Stats</h2>
 
 ###
 

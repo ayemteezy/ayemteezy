@@ -8,10 +8,11 @@
       <h1>
         👋 Hi, my name is Laurence Lester Cariño
       </h1>
-      <h3>Also known as Teezy</h3>
+      <h2>Also known as Teezy</h2>
     </summary>
   </ul>
 </div>
+
 
 ---
 

@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and tech ent
 ![Convex](https://img.shields.io/badge/Convex-000000?style=flat&logo=convex&logoColor=white)
 
 ### 🧑‍💻 Some of my repositories:
-- [My Portfolio Website](https://github.com/ayemteezy/portfolio)
+- [My Portfolio Website](https://teezy-portfolio.vercel.app/)
 
 ### 📊 GitHub Stats:
 ![Ayemteezy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayemteezy&show_icons=true&count_private=true&theme=radical)

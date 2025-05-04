@@ -1,169 +1,41 @@
-<div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2MDY1MzgsIm5iZiI6MTc0MzYwNjIzOCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAyVDE1MDM1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2MmZkNGI3MzUxMzgwZWExYzVlZTZkNmRmMTNmMzczMzMwZWEyYjg2MjliNWU5YjUxNTM0ZWQ0NzE5ZDcyZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ce2ONXw2-ETydb4hVf33dt4AtOLugacaC5gMTXybE7A"  />
+![Hey there! 👋 I'm Laurence Lester Cariño](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hey there! 👋 I'm Laurence Lester Cariño
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-###
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="laurencelestercarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/laurence-lester-cariño" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.tiktok.com/@ayemteezy" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayemteezy.ayemteezy&left_color=gray&right_color=darkslateblue&left_text=visitors"  />
-</div>
+ **<h3 align="left">I'm Teezy, an aspiring Software Engineer and passionate Full-Stack Web Developer 👨‍💻 who specializes in building modern, scalable web applications with a strong focus on performance ⚡, usability 🎯, and clean design 🎨. I primarily work with Next.js for full-stack React development, TypeScript for type-safe and maintainable code, Tailwind CSS and shadcn/ui for efficient and consistent UI development, and Drizzle ORM for handling relational databases with type safety. I enjoy turning complex ideas into simple, elegant solutions—whether it's crafting smooth frontend experiences or designing robust backend architecture.</h3>**
 
-###
+**<h3 align="left">Rapid Fire</h3>**
 
-<h1 align="left">👋 Hi there! I'm Teezy!</h1>
+- 💼 I'm currently working on: **Developing a Movie Rating App using the TMDB API to discover, rate, and review movies.**
+- 🌱 I'm currently learning: **Exploring advanced concepts in TypeScript, Next.js, and Drizzle ORM for building more scalable and efficient web applications.**
+- 💬 Ask me about: **Full-Stack Development, Next.js, React, TypeScript, Drizzle ORM, UI/UX Design, React Native, Flutter, and Performance Optimization.**
+- ⚡ Fun fact: **I once built a web app in a weekend just to prove I could do it (and because coffee was involved).**
+- 📂 Portfolio: **<a href="https://teezy-portfolio.vercel.app" target="_blank">https://teezy-portfolio.vercel.app</a>**
 
-###
+ **<h3 align="left">Skills</h3>**
 
-<h3 align="left">🚀 I'm a web developer who loves solving problems and bringing ideas to life through code. I thrive on building scalable and efficient applications, especially when working with Next.js, React, and modern backend technologies. My passion lies in creating seamless user experiences while pushing the boundaries of what's possible in web development.</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="48" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/php/787CB5" height="48" alt="PHP" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="48" alt="C++" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="Kotlin" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/prisma/2E5798" height="48" alt="Prisma" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/drizzle/1E1E1E" height="48" alt="Drizzle" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" alt="React" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="48" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="Tailwind" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="48" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/express/000000" height="48" alt="Express" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="48" alt="Nodejs" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="48" alt="Laravel" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="48" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/postgresql/336791" height="48" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/flutter/02569B" height="48" alt="Flutter" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" alt="Azure" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" alt="AWS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="GCP" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="48" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="Intellij" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase" style="margin-right: 4px"></div>
 
-###
+ **<h3 align="left">GitHub Stats</h3>**
 
-<h3 align="left">🔭 I'm currently looking for a front-end web development role where I can collaborate with like-minded developers and contribute to impactful projects. If you're hiring, let's talk!</h3>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayemteezy&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ayemteezy&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
-###
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayemteezy&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
-<div align="left">
-  <img height="1.8" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
-
-###
-
-- 💼 I'm up to: <br>
-- 🌱 I'm currently learning: Exploring deeper on JavaScript.<br>
-- 💬 Ask me about: **💡 JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, PHP, and Laravel.**
-- 📂 My Portfolio: **<a href="https://teezy-portfolio.vercel.app/" target="_blank">https://teezy-portfolio.vercel.app/</a>**
-
-###
-
-<br clear="both">
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="45" alt="gitlab logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="45" alt="gimp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="sass logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="mailto:laurencelestercarino@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/laurence-lester-cariño/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/ayemteezy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/ayem_teezy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/ayemteezy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
- 
-</div>
- 
-
-###
-
-<br clear="both">
-
-<h2 align="left">Github Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayemteezy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
-###
-
-<h2 align="center">Thanks for stopping by! 🌟</h2>

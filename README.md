@@ -1,5 +1,13 @@
 ![Hey there! 👋 I'm Laurence Lester Cariño](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
+<div align="center">
+  <img height="60" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayemteezy.ayemteezy&"  />
+</div>
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -10,10 +18,10 @@
   </ul>
 </div>
 
-**<h5 align="left">Connect with me:</h3>** 
+**<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="laurencelestercarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/laurence-lester-cariño" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I'm Teezy, an aspiring Software Engineer and Web Developer 👨‍💻 who specializes in building modern, scalable web applications with a strong focus on performance ⚡, usability 🎯, and clean design 🎨. I primarily work with Next.js for full-stack React development, TypeScript for type-safe and maintainable code, Tailwind CSS and shadcn/ui for efficient and consistent UI development, and Drizzle ORM for handling relational databases with type safety. I enjoy turning complex ideas into simple, elegant solutions—whether it's crafting smooth frontend experiences or designing robust backend architecture.</h3>**
+ **<h3 align="left">I'm Teezy, an aspiring Software Engineer and passionate Full-Stack Web Developer 👨‍💻 who specializes in building modern, scalable web applications with a strong focus on performance ⚡, usability 🎯, and clean design 🎨. I primarily work with Next.js for full-stack React development, TypeScript for type-safe and maintainable code, Tailwind CSS and shadcn/ui for efficient and consistent UI development, and Drizzle ORM for handling relational databases with type safety. I enjoy turning complex ideas into simple, elegant solutions—whether it's crafting smooth frontend experiences or designing robust backend architecture.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -31,11 +39,6 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayemteezy&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=ayemteezy&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayemteezy&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 

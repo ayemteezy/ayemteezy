@@ -1,4 +1,4 @@
-![Hey there! 👋 I'm Laurence Lester Cariño](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Hey there! 👋 I'm Laurence Lester Cariño](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">

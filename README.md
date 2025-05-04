@@ -1,10 +1,6 @@
 ![Hey there! 👋 I'm Laurence Lester Cariño](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-<div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
-<div align="center">
+<div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayemteezy.ayemteezy&"  />
 </div>
 

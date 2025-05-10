@@ -21,7 +21,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Developing a Movie Rating App using the TMDB API to discover, rate, and review movies.**
+- 💼 I'm currently working on: **Developing my new Professional Portfolio**
 - 🌱 I'm currently learning: **Exploring advanced concepts in TypeScript, Next.js, and Drizzle ORM for building more scalable and efficient web applications.**
 - 💬 Ask me about: **Full-Stack Development, Next.js, React, TypeScript, Drizzle ORM, UI/UX Design, React Native, Flutter, and Performance Optimization.**
 - ⚡ Fun fact: **I once built a web app in a weekend just to prove I could do it (and because coffee was involved).**

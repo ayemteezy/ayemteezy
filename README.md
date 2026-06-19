@@ -1,41 +1,42 @@
-![Hey there! 👋 I'm Laurence Lester Cariño](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is Laurence Lester Cariño](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayemteezy.ayemteezy&"  />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=ayemteezy&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hey there! 👋 I'm Laurence Lester Cariño
+        👋 Hi, my name is Laurence Lester Cariño
       </h1>
     </summary>
   </ul>
 </div>
 
-**<h5 align="left">Connect with me:</h3>** 
-<p align="left"><a href="mailto:laurencelestercarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/laurence-lester-cariño" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://github.com/ayemteezy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/laurence-lester-cariño" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://twitter.com/ayemteezy_" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="mailto:laurencelestercarino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
- **<h3 align="left">I'm Teezy, an aspiring Software Engineer and Web Developer 👨‍💻 who specializes in building modern, scalable web applications with a strong focus on performance ⚡, usability 🎯, and clean design 🎨. I primarily work with Next.js for full-stack React development, TypeScript for type-safe and maintainable code, Tailwind CSS and shadcn/ui for efficient and consistent UI development, and Drizzle ORM for handling relational databases with type safety. I enjoy turning complex ideas into simple, elegant solutions—whether it's crafting smooth frontend experiences or designing robust backend architecture.</h3>**
+ **<h3 align="center">Information Technology graduate specializing in high-performance full-stack web applications using React.js, Next.js, TypeScript, and Tailwind CSS. Focused on clean component design, fluid user experiences, and building robust, type-safe backend architectures with Drizzle ORM.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Deepening my knowledge on Web Development**
-- 🌱 I'm currently learning: **Exploring advanced concepts in React, TypeScript, Next.js, and Drizzle ORM for building more scalable and efficient web applications.**
-- 💬 Ask me about: **Full-Stack Development, Next.js, React, TypeScript, Drizzle ORM, UI/UX Design, React Native, Flutter, and Performance Optimization.**
-- ⚡ Fun fact: **I once built a web app in a weekend just to prove I could do it (and because coffee was involved).**
-- 📂 Portfolio: **<a href="https://teezy-portfolio.vercel.app" target="_blank">https://teezy-portfolio.vercel.app</a>**
+- 💼 I'm currently working on: **💻 Deepening my Knowledge in Web Development**
+- 🌱 I'm currently learning: **📚 Best Practices in Web Development**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 
- **<h3 align="left">Skills</h3>**
+ **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/typescript/3178C6" height="48" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/php/787CB5" height="48" alt="PHP" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="48" alt="C++" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="Kotlin" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/prisma/2E5798" height="48" alt="Prisma" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/drizzle/1E1E1E" height="48" alt="Drizzle" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" alt="React" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="48" alt="Next.js" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="48" alt="Tailwind" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="48" alt="Bootstrap" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/express/000000" height="48" alt="Express" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="48" alt="Nodejs" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="48" alt="Laravel" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="48" alt="MongoDB" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/postgresql/336791" height="48" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/flutter/02569B" height="48" alt="Flutter" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="48" alt="Azure" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" alt="AWS" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="GCP" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VSCode" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="48" alt="Figma" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="Intellij" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="48" alt="Supabase" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Drizzle-4F5D95?logo=drizzle&logoColor=white" height="28" alt="Drizzle" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="28" alt="Framer Motion" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bun-FFDF00?logo=bun&logoColor=White" height="28" alt="Bun" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayemteezy&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ayemteezy&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayemteezy&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayemteezy&repo=teezy&show_owner=true&title_color=fff&text_color=fff&icon_color=fff&theme=github_dark&hide_border=false" alt="GitHub repo-card Card" />
 </p>
 
 <div align="left">
@@ -45,7 +46,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/galaga-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/galaga-contribution-graph.svg">
 </picture>

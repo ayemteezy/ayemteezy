@@ -3,11 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ayemteezy&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
-    <summary>
       <h1>
         Hi, my name is Laurence Lester Cariño
       </h1>
-    </summary>
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 

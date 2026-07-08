@@ -42,7 +42,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/breakout-contribution-graph-dark.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/galaga-contribution-graph-dark.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/output/galaga-contribution-graph-dark.svg">
 </picture>

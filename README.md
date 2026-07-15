@@ -25,8 +25,10 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/ayemteezy/ayemteezy/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <div align="left">
   <img height="1.8" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
